@@ -1,4 +1,4 @@
-# node-bing
+# imbing
 
 A client wrapper for Microsoft's Bing Search API on Node.js.
 
