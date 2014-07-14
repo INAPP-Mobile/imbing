@@ -1,7 +1,7 @@
 {
   "name": "imbing",
-  "version": "0.1.22",
-  "description": "A node library for Microsoft Bing Search API",
+  "version": "0.1.23",
+  "description": "A node library for Microsoft Bing Search API in Windows Azure Marketplace",
   "main": "index.js",
   "dependencies": {
     "querystring": "~0.2.0",

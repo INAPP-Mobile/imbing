@@ -1,6 +1,6 @@
 # imbing
 
-A client wrapper for Microsoft's Bing Search API on Node.js.
+A client wrapper for Microsoft's Bing Search API in Windows Azure Marketplace.
 
 # Installation
 
@@ -12,9 +12,10 @@ $ npm install imbing
 ```
 
 var bing = require('imbing');
-var b = bing({appId:"your-api-key"});
+var b = bing({appId:'your-api-key'});
+// your api key is primary account key that you can see in the dash board of the marketplace. 
 
-b.search("INAPP", {limit: 30}, function(error, response, body){
+b.search('INAPP', {limit: 30}, function(error, response, body){
 
 	if ( !error ) {
     	console.log(body.d.results[0].ID) ;
