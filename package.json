@@ -1,6 +1,6 @@
 {
   "name": "imbing",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "description": "A node library for Microsoft Bing Search API",
   "main": "index.js",
   "dependencies": {

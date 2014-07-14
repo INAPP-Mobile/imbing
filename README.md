@@ -29,6 +29,10 @@ b.search("INAPP", {limit: 30}, function(error, response, body){
 
 ```
 
+# GIT
+
+https://github.com/INAPP-Mobile/imbing.git
+
 # License
 
 MIT
