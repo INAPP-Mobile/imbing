@@ -1,39 +1,25 @@
 {
-  "author": {
-    "name": "Michael Shim",
-    "email": "imapp.help@gmail.com"
+  "name": "imbing",
+  "version": "0.1.2",
+  "description": "A node library for Microsoft Bing Search API",
+  "main": "index.js",
+  "dependencies": {
+    "querystring": "~0.2.0",
+    "request": "~2.37.0",
+    "underscore": "~1.6.0"
   },
-  "name": "binger",
-  "description": "A library for the Bing Search APIs",
-  "tags": [
-    "search",
-    "bing"
-  ],
-  "version": "0.1.0",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/INAPP-Mobile/imbing.git"
+    "url": "https://github.com/INAPP-Mobile/imbing.git"
   },
-  "engines": {
-    "node": ">= 0.4.1"
-  },
-  "dependencies": {
-    "underscore": ">=1.2.0",
-    "request": ">=2.1.0",
-    "querystring": ">=0.0.1"
-  },
+  "author": "Michael Shim",
+  "license": "MIT",
   "bugs": {
-    "url": "http://github.com/INAPP-Mobile/imbing/issues"
+    "url": "https://github.com/INAPP-Mobile/imbing/issues"
   },
-  "main": "./index.js",
-  "scripts": {
-    "test": ""
-  },
-  "licenses": [
-    {
-      "type": "MIT"
-    }
-  ],
-  "readmeFilename": "README.md",
-  "homepage": "https://github.com/INAPP-Mobile/imbing",
+  "homepage": "https://github.com/INAPP-Mobile/imbing"
 }
