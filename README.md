@@ -5,7 +5,6 @@ A client wrapper for Microsoft's Bing Search API on Node.js.
 # Installation
 
 ```
-$ git clone git://github.com/INAPP-Mobile/imbing.git
 $ npm install imbing
 ```
 
